@@ -1,0 +1,8 @@
+packages/
+Debug/
+Release/
+.vs/
+*.vcxproj.user
+/build.debug
+/submodules/googletest
+/submodules/vcpkg
